@@ -1,7 +1,7 @@
 # Flight Reservation System
 
 ## Description:
-The GP Flight Reservation System is a comprehensive software solution designed for managing airline bookings. This system allows for the management of customer profiles, flight information, and booking records. It supports operations such as adding and removing flights, customers, and managing bookings through a user-friendly console interface.
+The Flight Reservation System is a comprehensive software solution designed for managing airline bookings. This system allows for the management of customer profiles, flight information, and booking records. It supports operations such as adding and removing flights, customers, and managing bookings through a user-friendly console interface.
 
 ## Features:
 - **Customer Management**: Add, view, and delete customer profiles.
